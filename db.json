@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Tricia Wuckert",
+      "id": 1
+    },
+    {
+      "name": "Julie Renner",
+      "id": 2
+    },
+    {
+      "name": "Kerry Feeney",
+      "id": 3
+    },
+    {
+      "name": "Olive Hayes",
+      "id": 4
+    },
+    {
+      "name": "Delbert Mueller",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Elegant Metal Tuna",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Modern Concrete Car",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Concrete Chair",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=3781449431908352",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=2037623306584064",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/49JsEP/640/480",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=8478796231475200",
+      "id": 5
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/Y25qICZmq/640/480",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7188937328033792",
+      "id": 7
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/ks0QFnK/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=3310706300551168",
+      "id": 9
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=4872353276231680",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/pmISiMI5S/640/480",
+      "id": 11
+    }
+  ]
+}
