@@ -1,5 +1,18 @@
 # ReactReduxToolkit-MediaPage
-A photography page for showing a list of users, their photo albums, and the photos in those albums
+
+## What Does It Do
+* A photography page for showing a list of users, their photo albums, and the photos in those albums
+
+## Why I Built It
+* To understand the relationship between React, Redux, and Redux Toolkit Query
+
+## Tech Used
+* React
+* Redux
+* Redux Toolkit Query
+* Node
+
+https://github.com/jetsetnofuture/ReactReduxToolkit-MediaPage/assets/102395901/633fd0c4-c011-4abe-8802-b61dc27c8786
 
 ## How to Use
 * The page uses "faker-js" to generate random images into the albums when the "Add Photo" button is clicked inside each album.
