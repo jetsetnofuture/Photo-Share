@@ -1,4 +1,4 @@
-# ReactReduxToolkit-MediaPage
+# Social Media Skeleton Page
 
 ## What Does It Do
 * A photography page for showing a list of users, their photo albums, and the photos in those albums
